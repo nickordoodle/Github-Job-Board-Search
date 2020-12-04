@@ -1,0 +1,28 @@
+{
+  "name": "github-job-board-search",
+  "version": "1.0.0",
+  "description": "github jobs simple search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nscherer30/Github-Job-Board-Search.git"
+  },
+  "keywords": [
+    "github",
+    "jobs",
+    "search",
+    "website"
+  ],
+  "author": "Nick Scherer <nscherer30@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nscherer30/Github-Job-Board-Search/issues"
+  },
+  "homepage": "https://github.com/nscherer30/Github-Job-Board-Search#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
