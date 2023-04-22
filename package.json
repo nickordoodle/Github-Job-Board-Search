@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/nscherer30/Github-Job-Board-Search#readme",
   "dependencies": {
-    "axios": "^0.21.0"
+    "axios": "^0.21.2"
   }
 }
